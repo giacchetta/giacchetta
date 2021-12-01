@@ -12,9 +12,9 @@ Then, I think, "How can I make these integrations and deployment simple, faster,
 
 ### Experience
 
-### Licenses & Certifications
+### Certifications
 
-### Security
+### Security Matters
 
 - Do you need to send me something important? Import my GPG Public key and send to me with my public email.
 
